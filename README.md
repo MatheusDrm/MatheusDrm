@@ -1,7 +1,7 @@
 ### Olá! 👋
 ## Me chamo Matheus Martins e sou aluno de Engenharia Mecatrônica na EESC USP 🦉
 
-<div align="center">
+<div>
   <a href="https://github.com/MatheusDrm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusDrm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDrm&layout=compact&langs_count=7&theme=dracula"/>
