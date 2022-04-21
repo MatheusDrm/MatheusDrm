@@ -1,5 +1,5 @@
 ### Olá! 👋
-## Me chamo Matheus Martins e sou aluno de Engenharia Mecatrônica na EESC USP 🦉
+## Me chamo Matheus e sou aluno de Engenharia Mecatrônica na EESC USP 🦉
 
 <div align="center">
   <a href="https://github.com/MatheusDrm">
